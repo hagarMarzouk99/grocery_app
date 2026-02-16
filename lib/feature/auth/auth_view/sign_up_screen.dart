@@ -4,8 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:gorcery_app/core/widgets/custom_app_text_form_field.dart';
 import 'package:gorcery_app/feature/auth/auth_view/login_screen.dart';
-
-import '../../../core/utils/app_colors.dart';
 import '../../../core/widgets/container_shadow.dart';
 import '../../../core/widgets/custom_app_button.dart';
 import '../../../core/widgets/custom_app_rich_text.dart';

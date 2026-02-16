@@ -5,8 +5,6 @@ import 'package:gorcery_app/core/widgets/custom_app_text_form_field.dart';
 import 'package:gorcery_app/core/widgets/remeber_me.dart';
 import 'package:gorcery_app/feature/auth/auth_view/sign_up_screen.dart';
 import 'package:gorcery_app/feature/auth/auth_view/welcome_screen.dart';
-
-import '../../../core/utils/app_colors.dart';
 import '../../../core/widgets/container_shadow.dart';
 import '../../../core/widgets/custom_app_button.dart';
 import '../../../core/widgets/custom_app_rich_text.dart';
