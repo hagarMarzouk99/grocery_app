@@ -4,10 +4,9 @@ import 'package:gorcery_app/feature/auth/auth_view/welcome_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  Future.delayed(Duration(seconds: 5),(){
-    runApp(const MyApp());
-  });
 
+    runApp(const MyApp());
+    // by mohammed
 }
 
 class MyApp extends StatelessWidget {
@@ -16,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
-      designSize: Size(957.2, 638.21),
+      designSize: Size(957.2, 640.21),
       minTextAdapt: true,
       splitScreenMode: true,
 
